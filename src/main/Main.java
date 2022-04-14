@@ -11,5 +11,6 @@ public class Main {
         String name = sc.nextLine();
         per1.setName(name);
         System.out.println("ten cua ban per1 la: " + per1.getName());
+        System.out.println("Hoang dep trai vl");
     }
 }
